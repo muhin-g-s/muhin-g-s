@@ -3,7 +3,7 @@
 ```javascript
 const SoftwareEnginner = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, Java, CPP],
+  code: [Javascript, Typescript, Java, CPP],
   tools: [React, Redux, Vite, Next],
   devOps: [Tomcat, Linux],
   db : MySQL | MongoDB | PostgreSQL,
